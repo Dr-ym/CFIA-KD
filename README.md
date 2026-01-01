@@ -9,7 +9,8 @@ To install the required dependencies run the following in command prompt:
 `pip install -r requirements.txt`
 
 
-
+## Data Access
+Large files (.npy and .hdf5) exceed GitHub's size limits. They are available upon request by opening an issue.
 
 ## Citation
 If you find our paper useful for your research, consider citing us:
