@@ -2,7 +2,7 @@
 Implementation of our papers **[CFIA-KD: Confidence and Feature Importance Aware Knowledge Distillation for Effective Skin Lesion Diagnosis from Dermoscopic Images]**
 
 **[Disagreement serves an explainable ensemble model based on Dempster–Shafer evidence-fusion for an improved skin lesion classification]**
-
+published in Biomedical Signal Processing and Control, 2024
 
 ## Requirements
 To install the required dependencies run the following in command prompt:
